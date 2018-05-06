@@ -1,1 +1,1 @@
-# Liri
+# liri-node-app
